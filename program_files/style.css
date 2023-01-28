@@ -1,0 +1,19 @@
+ <style>
+      /* Add some styles for the menu */
+      #menu {
+        background-color: #333;
+        color: white;
+        text-align: center;
+        padding: 10px 0;
+      }
+
+      #menu a {
+        color: white;
+        text-decoration: none;
+        padding: 0 10px;
+      }
+
+      #menu a:hover {
+        background-color: #111;
+      }
+    </style>
